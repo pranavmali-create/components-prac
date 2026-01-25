@@ -6,6 +6,7 @@ import Card4 from "./components/Card4";
 import Card5 from "./components/Card5";
 import Card6 from "./components/Card6";
 import AmanCard from "./components/AmanCard";
+import Card7 from "./components/Card7";
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       <Card5 />
       <Card6 />
       <AmanCard />
+      <Card7 />
     </>
   );
 }
