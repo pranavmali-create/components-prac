@@ -9,21 +9,23 @@ import AmanCard from "./components/AmanCard";
 import Card7 from "./components/Card7";
 import Card8 from "./components/Card8";
 import Navbar from "./components/Navbar";
+import Card9 from "./components/Card9";
 function App() {
-  return (
-    <>
-      {/* <Card /> */}
-      {/* <Card2 /> */}
-      {/* <Card3 /> */}
-      {/* <Card4 /> */}
-      {/* <Card5 /> */}
-      {/* <Card6 /> */}
-      {/* <AmanCard /> */}
-      {/* <Card7 /> */}
-      {/* <Card8 /> */}
-      <Navbar />
-    </>
-  );
+    return (
+        <>
+            {/* <Card /> */}
+            {/* <Card2 /> */}
+            {/* <Card3 /> */}
+            {/* <Card4 /> */}
+            {/* <Card5 /> */}
+            {/* <Card6 /> */}
+            {/* <AmanCard /> */}
+            {/* <Card7 /> */}
+            {/* <Card8 /> */}
+            {/* <Navbar /> */}
+            <Card9 />
+        </>
+    );
 }
 
 export default App;
